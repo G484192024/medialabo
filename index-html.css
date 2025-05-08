@@ -4,7 +4,7 @@ h1{
 }
 
 h2{
-    background:linear-gradient(0.25turn,blue,white);
+    background:linear-gradient(0.25turn,rgb(38, 196, 228),white);
 }
 
 a:link{
