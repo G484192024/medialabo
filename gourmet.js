@@ -1,7 +1,15 @@
 
 // 課題3-2 のプログラムはこの関数の中に記述すること
 function print(data) {
-
+console.log(data.results.shop[0].access);
+console.log(data.results.shop[0].address);
+console.log(data.results.shop[0].budged.name);
+console.log(data.results.shop[0].catch);
+console.log(data.results.shop[0].genre.name);
+console.log(data.results.shop[0].name);
+console.log(data.results.shop[0].open);
+console.log(data.results.shop[0].station_name);
+console.log(data.results.shop[0].sub_genre.name);
 }
 
 // 課題5-1 の関数 printDom() はここに記述すること
