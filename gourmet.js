@@ -10,6 +10,8 @@ console.log(data.results.shop[0].name);
 console.log(data.results.shop[0].open);
 console.log(data.results.shop[0].station_name);
 console.log(data.results.shop[0].sub_genre.name);
+
+console.log(data.results.shop[3].name);
 }
 
 // 課題5-1 の関数 printDom() はここに記述すること
