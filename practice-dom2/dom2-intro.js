@@ -17,6 +17,7 @@ function changeDom(){
         l.remove();
         u = document.querySelector('ul#kassen');
         u.remove(); 
+        
         p = document.querySelector('p#primary');
         u = document.createElement('ul');
         p.insertAdjacentElement('afterend', u); 

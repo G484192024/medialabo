@@ -1,11 +1,16 @@
-p{
-    color:aqua
+p#pstrong{
+    border-top: 10px dashed navy
 }
-h2{
-    background-color:gray;
-    border-bottom:10px dashed brown;
+h2#size{ 
+    color: red;
+    border-bottom:10px dotted yellow ;
 }
-
-li{
-    color:green;
+strong#pstrong{
+    color: blue;
+    border-bottom: 10px solid cyan;
+}
+p#kensakukekka{
+    color: #375e97;
+    font-size: 2em;
+    border-bottom:1px solid #375e97;
 }
